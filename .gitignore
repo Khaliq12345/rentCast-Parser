@@ -184,3 +184,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Progress file
+progress.txt
